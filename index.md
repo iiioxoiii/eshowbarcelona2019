@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Resum de xerrades de eshow Barcelona 2019
+![Amós al eshow](https://media.giphy.com/media/fpXxIjftmkk9y/giphy.gif)
 
 
 ## Siteground_es
