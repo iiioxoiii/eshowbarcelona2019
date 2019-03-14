@@ -5,6 +5,9 @@
 layout: home
 ---
 
+Resum de xerrades de eshow Barcelona 2019
+
+
 ## Siteground_es
 [https://www.siteground.es](https://www.siteground.es)
 - Estan a Amsterdam i treballen amb Open Source
@@ -102,11 +105,12 @@ layout: home
 - En ambients complicats també funcionen.
 [apm@industrialshields.com](apm@industrialshields.com)
 
+
 --------------
 
 
 ## Liferay
-####Portal de gestió de continguts.
+#### Portal de gestió de continguts.
 
 - Plataforma ecommerce Lifeecommerce para B2B
 - B2C vs B2B (diuen que convergeixen cada cop més)
@@ -119,6 +123,7 @@ layout: home
 - Els compradors veuen una plataforma om una eina de treball.
 [https://www.liferay.com](www.liferay.com]
 
+--------------
 
 ## ALTRAN
 - La computació dona una visió global del negoci (no hi ha paper)
@@ -130,7 +135,7 @@ layout: home
 - Analitzar sempre els que pasa per no tenir conjetures.
 
 - Iot
-- BLockchain i els pollastres.
+-- BLockchain i els pollastres.
 - RPA: replicar accions d'usuari. És el pas previ a la IA
 --- Analisis, predicció (ex. detectar quan l'ususari se'n va del portal)
 
@@ -187,7 +192,8 @@ d'espectacles indoor quan fa mal temps.
 
 -------------
 
-## ETICA. Dades a l'empresa. Óscar Alonso Llombart
+## ETICA. Dades a l'empresa. 
+#### Óscar Alonso Llombart
 - [https://www.breacheaveindex.com](breacheveindex.com)
 - Hi han moltes fallades de seguretat.
 - Diuen a Davos que és una amenaça global.
