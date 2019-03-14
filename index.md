@@ -11,15 +11,15 @@ layout: home
 ## Siteground_es
 [https://www.siteground.es](https://www.siteground.es)
 - Estan a Amsterdam i treballen amb Open Source
-- Identifiquen coses com:
--- ELs CMS golosos en BBDD
+- Identifiquen coses com que
+-- Els CMS golosos en BBDD
 -- Necessitat de renovació de hardware cada 2 anys
 -- PHP 7.3 respecte a5 triplica la velocitat
 - Què ofereixen?
 -- Serveis de CDN (posicionanament)
 -- Habilitació de tunnig
 -- Software actualitzat
-- SEO.Google vol webs segures. (https) Millor posicionament.
+- SEO.Google vol webs segures (https) Millor posicionament!
 - Al servidor i a l'explorador els hi mola http2.
 
 ### Coses que ha de fer el ISP ... 
@@ -207,7 +207,7 @@ d'espectacles indoor quan fa mal temps.
 -------
 
 ## Nacho Cougil de barcelonajug.org
-## Jonathan Vila de  RedHad
-- organitzadors d'esdeveniments
+#### Jonathan Vila de RedHad
+- Organitzadors d'esdeveniments
 - [www.jbcnconf.com](www.jbcnConf)
 - [https://barcelonajug.org](barcelonajug.org)
